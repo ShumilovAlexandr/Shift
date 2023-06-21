@@ -23,4 +23,11 @@
 ##### Написан docker-compose для запуска приложения и базы данных postgres.
 
 ## Запуск приложения:
-1) Склонировать приложение командой git clone https://github.com/ShumilovAlexandr/Shift
+1) Склонировать приложение командой git clone https://github.
+   com/ShumilovAlexandr/Shift.
+2) Открыть проект, например, в текстовом редакторе (ну или другим способом).
+3) В корневой директории выполнить следующие команды: <br>
+   а) docker compose build
+   б) docker compose up
+4) В браузере перейти по ссылке http://localhost:9999/docs
+5) Протестировать приложение.
