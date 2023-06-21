@@ -23,3 +23,4 @@
 ##### Написан docker-compose для запуска приложения и базы данных postgres.
 
 ## Запуск приложения:
+1) Склонировать приложение командой git clone https://github.com/ShumilovAlexandr/Shift
