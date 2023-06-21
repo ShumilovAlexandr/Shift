@@ -149,3 +149,5 @@ dmypy.json
 .mypy_cache
 
 alembic.ini
+
+.env
